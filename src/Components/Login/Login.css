@@ -1,0 +1,26 @@
+#btn-signin{
+    margin: 15px;
+    /* background-color: #A3606A; */
+}
+#jo-login{
+    
+    margin-top: 20px;
+    /* background-color: #2C292F;
+    border: 2px solid #A3606A; */
+    border-radius: 15px;
+    /* box-shadow: 10px 10px 15px 5px #2C292F; */
+}
+#signin-title{
+    color: #354A54;
+    /* text-shadow: -5px 5px 10px #624456; */
+    transition: 1s;
+}
+#signin-icon{
+    /* color: #A3606A; */
+    transition: 1s;
+}
+#signin-icon:hover{
+    color: #354A54;
+    transform: rotate(360deg);
+}
+

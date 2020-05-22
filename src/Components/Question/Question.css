@@ -1,0 +1,13 @@
+#cont-question{
+    
+    padding: 20px;
+    border-bottom: 10px double;
+}
+#img-question{
+    text-align: center;
+}
+#img-question img{
+    max-width: 50%;
+    max-width: 50%;
+    margin-bottom: 10px;
+}

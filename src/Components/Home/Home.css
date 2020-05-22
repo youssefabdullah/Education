@@ -1,0 +1,27 @@
+#btn-age{
+    color: white;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 10px;
+    width: 525px;
+    background-color: #0C7392;
+    transition: 1s;
+}
+#navlink{
+    color: white;
+    text-decoration: none;
+}
+#btn-age :hover{
+    color:#c68f10;
+   
+}
+@media (max-width: 880px) {
+ 
+	#btn-age{
+        
+        width: 100%;
+        
+    }
+ 
+}

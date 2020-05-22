@@ -1,0 +1,19 @@
+#card-cont{
+    margin: 50px 0;
+}
+.score-len{
+    color: #c68f10;
+    text-align: center;
+    border-bottom: 10px double #117694;
+    font-size: 50px;
+}
+.cont-quiz{
+    color:white;
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    border: 2px solid #c68f10;
+}
+#error{
+    text-align: center;
+}

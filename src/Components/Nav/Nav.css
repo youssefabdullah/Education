@@ -1,0 +1,34 @@
+.nav-bar{
+    color:#c68f10;
+    background-color: #117694;
+
+}
+.Logo{
+    margin-left: 20px;
+    height: 100px;
+}
+#nav-btn{
+    color: #c68f10;
+    text-decoration: none;
+    transition: 1s;
+}
+
+#btn-nav{
+    padding: 25px;
+    font-size: 15px;
+    border-bottom: 3px solid #c68f10;
+    transition: 1s;
+}
+#btn-nav:hover{
+    color: #fff;
+    background-color: #c68f10;
+    box-shadow:5px 5px 5px #fff;
+}
+@media (max-width: 880px) {
+ 
+	#btn-nav{
+        padding: 15px;
+        font-size: 10px;
+    }
+ 
+}
